@@ -1,0 +1,6 @@
+com\cms\controller\CourseController.class
+com\cms\entity\Course.class
+com\cms\config\WebConfig.class
+com\cms\config\Webinit.class
+com\cms\dao\CourseDAO.class
+com\cms\service\CourseService.class
